@@ -35,8 +35,8 @@
 </div>
 
 <div class="test2">
-<h4 style="padding-left:20px;"><i class="fa-solid fa-hashtag"></i> <a href="./cdp-general.php">general</a></h4>
-<h4 style="padding-left:20px;"><i class="fa-solid fa-hashtag"></i> <a>imagenes</a></h4>
+<h4 style="padding-left:20px;"><i class="fa-solid fa-hashtag"></i> general</h4>
+<h4 style="padding-left:20px;"><i class="fa-solid fa-hashtag"></i> imagenes</h4>
 </div>
 
 <div class="debug">
