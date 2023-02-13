@@ -22,7 +22,7 @@
 <pre id="messages" style="background-color:#21252b;width:50rem;height:300px;overflow:auto;"></pre> 
 </div>
 
-    <div style="padding:4rem;padding-left:5rem;">
+    <div style="padding:1rem;padding-left:5rem;">
     <input style="width:40rem;height:3rem;background-color:#21252b;border-radius:5px;border:solid black 1px;color:gray;border:" type="text" id="messageBox">
     <button id="send" class="br c_bl" style="background-color:#3d4eae;border-color:#3d4eae;">Send</button>
 </div>
