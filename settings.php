@@ -20,7 +20,7 @@
     <h2 style="padding-left:6rem;">Mi Cuenta</h2>
     <p style="padding-left:6rem;margin:0;">Aqui podras encontra una lista de servidores donde podras chatear.</p>
     <p style="padding-left:6rem;margin:0;">Si encuentras algun bug, no olvides reportarlo en nuestro servidor de Discord.</p>
-    <h2 style="padding-left:6rem;">Servidores Recomendados</h2>
+    <!--<h2 style="padding-left:6rem;">Servidores Recomendados</h2>-->
 </div>
 </div>
 
