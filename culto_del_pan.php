@@ -19,7 +19,7 @@
     <h1 style="padding-left:6rem;font-family: 'Inconsolata', monospace;">El Culto del Pan</h1>
 
 <div style="padding-left:100px;margin:0;">
-<pre id="messages" style="height:400px;overflow:scroll;"></pre> 
+<pre id="messages" style="height:400px;overflow:auto;"></pre> 
 </div>
 
     <div style="padding:4rem;padding-left:5rem;">
