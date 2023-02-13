@@ -16,10 +16,10 @@
 </main>
 
 <div class="maincontainer">
-    <h1 style="padding-left:6rem;font-family: 'Inconsolata', monospace;">El Culto del Pan</h1>
+    <h1 style="padding-left:7rem;font-family: 'Inconsolata', monospace;">El Culto del Pan</h1>
 
-<div style="padding-left:100px;margin:0;">
-<pre id="messages" style="height:400px;overflow:auto;"></pre> 
+<div style="padding-left:80px;margin:0;">
+<pre id="messages" style="background-color:#21252b;width:50rem;height:300px;overflow:auto;"></pre> 
 </div>
 
     <div style="padding:4rem;padding-left:5rem;">
