@@ -18,14 +18,8 @@
 <div class="maincontainer">
     <h1 style="padding-left:7rem;font-family: 'Inconsolata', monospace;">El Culto del Pan</h1>
 
-<div style="padding-left:80px;margin:0;">
-<pre id="messages" style="background-color:#21252b;width:50rem;height:300px;overflow:auto;"></pre> 
-</div>
 
-    <div style="padding:1rem;padding-left:5rem;">
-    <input style="width:40rem;height:3rem;background-color:#21252b;border-radius:5px;border:solid black 1px;color:gray;border:" type="text" id="messageBox">
-    <button id="send" class="br c_bl" style="background-color:#3d4eae;border-color:#3d4eae;">Send</button>
-</div>
+
 </div>
 
 <div class="test">
