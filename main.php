@@ -39,6 +39,7 @@
 <hr>
 <h4 style="padding-left:20px;">Desarrollador</h4>
 <h4 style="padding-left:20px;"><i class="fa-solid fa-lock"></i> Academia</h4>
+<h4 style="padding-left:20px;"><i class="fa-solid fa-book"></i> Recursos</h4>
 </div>
 
 <div class="debug">
