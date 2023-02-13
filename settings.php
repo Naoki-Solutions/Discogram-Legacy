@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel = "stylesheet" type = "text/css" href = "./assets/css/plot.css"> 
     <link rel = "stylesheet" type = "text/css" href = "./assets/css/colors.css">
-    <link rel = "stylesheet" type = "text/css" href = "./assets/css/main.css">
+    <link rel = "stylesheet" type = "text/css" href = "./assets/css/settings.css">
     <title>Naoki OnNet</title>
 </head>
 <body>
