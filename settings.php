@@ -16,8 +16,8 @@
 <h1>Main UI</h1>
 </main>
 <div class="maincontainer">
-    <h1 style="padding-left:6rem;font-family: 'Inconsolata', monospace;">Naoki OnNet</h1>
-    <h2 style="padding-left:6rem;">Landing</h2>
+    <h1 style="padding-left:6rem;font-family: 'Inconsolata', monospace;">Configuracion</h1>
+    <h2 style="padding-left:6rem;">Mi Cuenta</h2>
     <p style="padding-left:6rem;margin:0;">Aqui podras encontra una lista de servidores donde podras chatear.</p>
     <p style="padding-left:6rem;margin:0;">Si encuentras algun bug, no olvides reportarlo en nuestro servidor de Discord.</p>
     <h2 style="padding-left:6rem;">Servidores Recomendados</h2>
