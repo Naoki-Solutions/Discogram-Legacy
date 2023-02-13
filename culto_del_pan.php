@@ -34,13 +34,14 @@
 </div>
 
 <div class="test2">
-<h3 style="padding-left:20px;"><i class="fa-solid fa-user"></i> Amigos</h3>
-<h3 style="padding-left:20px;"><i class="fa-solid fa-comments"></i> Chat Global</h3>
-<h3 style="padding-left:20px;"><i class="fa-solid fa-map"></i> Explorar</h3>
-<h3 style="padding-left:20px;"><i class="fa-solid fa-shop"></i> Tienda</h3>
-<h3 style="padding-left:20px;"><i class="fa-solid fa-lock"></i> Admin Room</h3>
+<h4 style="padding-left:20px;"><i class="fa-solid fa-user"></i> Amigos</h4>
+<h4 style="padding-left:20px;"><i class="fa-solid fa-comments"></i> Chat Global</h4>
+<h4 style="padding-left:20px;"><i class="fa-solid fa-map"></i> Explorar</h4>
+<h4 style="padding-left:20px;"><i class="fa-solid fa-shop"></i> Tienda</h4>
+<h4 style="padding-left:20px;"><i class="fa-solid fa-lock"></i> Admin Room</h4>
 <h3 style="padding-left:20px;">-------------------</h3>
 <h4 style="padding-left:20px;">Desarrollador</h4>
+<h4 style="padding-left:20px;"><i class="fa-solid fa-lock"></i> Academia</h4>
 </div>
 
 <div class="debug">
