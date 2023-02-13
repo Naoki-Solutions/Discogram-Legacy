@@ -17,6 +17,10 @@
 
 <div class="maincontainer">
     <h1 style="padding-left:7rem;font-family: 'Inconsolata', monospace;">El Culto del Pan</h1>
+    <h2 style="padding-left:7rem;">Que es esto?</h2>
+    <p style="padding-left:7rem;">El culto del pan es un lugar en donde alabamos y adoramos el pan.</p>
+    <h2 style="padding-left:7rem;">Que hacer aqui?</h2>
+    <p style="padding-left:7rem;">Alabar el pan.</p>
 </div>
 
 <div class="test">
