@@ -6,3 +6,8 @@ Esta aplicacion web es muy facil e intuitiva de usar. Te creas una cuenta, y tie
 
 ## Como funciona?
 Naoki OnNet esta hecha con HTML, CSS, PHP, Javascript y WebSocket.
+
+## Requerimientos
+- 1 database MySQL
+- NPM's: WebSocket, Express, HTTP
+- (If localhost): XAMPP
