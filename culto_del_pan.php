@@ -17,9 +17,6 @@
 
 <div class="maincontainer">
     <h1 style="padding-left:7rem;font-family: 'Inconsolata', monospace;">El Culto del Pan</h1>
-
-
-
 </div>
 
 <div class="test">
