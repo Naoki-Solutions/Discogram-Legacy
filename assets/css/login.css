@@ -1,0 +1,40 @@
+body{   
+    background: #25292d;  
+    color: #9a9b9d;
+}  
+#frm{  
+    border-radius: 5px;
+    border: solid #282d35 1px;  
+    width:25%;  
+    margin: 120px auto;  
+    background: #282d35;  
+    padding: 50px;  
+} 
+/* 
+#btn{  
+    color: #fff;  
+    background: #3d4eae;  
+    padding: 2px;  
+    margin-left: 70%;  
+    font-family: sans-serif;
+    border-radius: 5px;
+} 
+*/ 
+
+h1 {
+    font-family: sans-serif;
+    color: #8b8c8d;
+}
+
+label {
+    font-family: sans-serif;
+    color: #8b8c8d; 
+}
+
+input {
+    color: #8b8c8d;
+    border: none;
+    border-color: #1b1f24;
+    background-color: #24282e;
+    font-size: 20px;
+}

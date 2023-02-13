@@ -1,0 +1,79 @@
+/*
+* {
+    background-color: white;
+}
+*/
+
+h1,h2,h3,h4,p {
+    font-family: 'Inconsolata', monospace;
+}
+
+.debug {
+    background-color: #21252b;
+    width: 220px;
+    margin: 0;
+    height: 42rem;
+    position: absolute;
+    right: 0;
+    top: 36px;
+}
+
+.debug2 {
+    background-color: #1b1f24;
+    width: 200px; 
+    margin: 0;
+    height: 25rem;
+    position: absolute;
+    left: 10px;
+    top: 36px;
+    border-radius: 5px;
+}
+
+.maincontainer {
+    background-color: #24282e;
+    width: 70rem;
+    margin: 0;
+    height: 42rem;
+    position: absolute;
+    left: 203px;
+    top: 36px;
+    padding: 20px;
+}
+
+.test {
+    background-color: #1b1f24;
+    width: 50px;
+    margin: 0;
+    height: 42rem;
+    position: absolute;
+    left: 0;
+    top: 36px;
+    border-radius: 5px;
+}
+
+.test2 {
+    background-color: #21252b;
+    width: 240px;
+    margin: 0;
+    height: 42rem;
+    position: absolute;
+    left: 50px;
+    top: 36px;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}

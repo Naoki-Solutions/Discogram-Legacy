@@ -1,0 +1,46 @@
+html{
+    --ui_alto_barra-arriba: 32px;
+    --ui_ancho_barra-tareas: 50px;
+    /* Colores para fondos */
+    --bg_0_p: 26, 29, 34;  --bg_0: rgba(var(--bg_0_p), 1);
+    --bg_1_p: 27, 31, 36;  --bg_1: rgba(var(--bg_1_p), 1);
+    --bg_2_p: 33, 37, 43;  --bg_2: rgba(var(--bg_2_p), 1);
+    --bg_3_p: 36, 40, 46;  --bg_3: rgba(var(--bg_3_p), 1);
+    --bg_4_p: 40, 45, 53;  --bg_4: rgba(var(--bg_4_p), 1);
+    --bg_5_p: 62, 67, 79;  --bg_5: rgba(var(--bg_5_p), 1);
+  
+    /* Colores para letras */
+    --co_0_p: 214, 214, 214;  --co_0: rgba(var(--co_0_p), 1);
+    --co_1_p: 162, 162, 164;  --co_1: rgba(var(--co_1_p), 1);
+    --co_2_p: 133, 137, 143;  --co_2: rgba(var(--co_2_p), 1);
+    
+    --co_3_p: 74, 75, 84;     --co_3: rgba(var(--co_3_p), 1);
+    --co_4_p: 104, 104, 104;  --co_4: rgba(var(--co_4_p), 1);
+  
+    /* Otros colores */
+      --co_r_p: 201, 80, 83;    --co_r: rgba(var(--co_r_p), 1);
+    --co_v_p: 70, 159, 73;    --co_v: rgba(var(--co_v_p), 1);
+    --co_b_p: 63, 81, 181;    --co_b: rgba(var(--co_b_p), 1);
+      --co_n_p: 236, 164, 57;   --co_n: rgba(var(--co_n_p), 1);
+      --co_h_p: 103, 58, 183;   --co_h: rgba(var(--co_h_p), 1);
+      --co_a_p: 246, 255, 0;    --co_a: rgba(var(--co_a_p), 1);
+    --co_m_p: 176, 111, 188;  --co_m: rgba(var(--co_m_p), 1);
+  
+    --bo_border_b_p:   28, 30, 36;
+    --bo_border_p:     33, 35, 41;  --bo_border: rgba(var(--bo_border_p), 1);
+    --bo_border_i_p:   54, 59, 69;  --bo_border_i: rgba(var(--bo_border_i_p), 1);
+    --bo_border_3_p:   87, 94, 107;  --bo_border_3: rgba(var(--bo_border_3_p), 1);
+    
+    background-color: var(--bg_1);
+    color: var(--co_2);
+  }
+  
+  .bg_0{background-color: var(--bg_0);}
+  .bg_1{background-color: var(--bg_1);}
+  .bg_2{background-color: var(--bg_2);}
+  .bg_3{background-color: var(--bg_3);}
+  .bg_4_transparente{background-color: rgba(var(--bg_4_p), 0.4) }
+  .bg_4{background-color: var(--bg_4);}
+  .bg_5_transparente{background-color: rgba(var(--bg_5_p), 0.4) }
+  .bg_5{background-color: var(--bg_5);}
+  .bg_r{background-color: red;}
