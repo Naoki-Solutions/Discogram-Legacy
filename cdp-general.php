@@ -48,9 +48,15 @@
     <p style="margin:0;padding-left:15px;font-size:13px;">Version: <span style="color:#47B0F9">v1.0.1</span></p>
     <p style="margin:0;padding-left:15px;font-size:13px;">Logged In: <span style="color:green">true</span></p>
     <p style="margin:0;padding-left:15px;font-size:13px;">Coded in: HTML, CSS, PHP, JS</p>
-    <h4 style="padding-left:10px;margin:8px;">Websocket</h4>
-    <p style="margin:0;padding-left:15px;font-size:13px;">Conectado: <span style="color:green">true</span></p>
-    <p style="margin:0;padding-left:15px;font-size:13px;">Puerto: <span style="color:green">6969</span></p>
+    <h4 style="padding-left:10px;margin:8px;">Networking</h4>
+    <p style="margin:0;padding-left:15px;font-size:13px;">Latency: <span style="color:green">0ms</span></p>
+    <p style="margin:0;padding-left:15px;font-size:13px;">ISP: Cisco</p>
+    <h4 style="padding-left:10px;margin:8px;">Database</h4>
+    <p style="margin:0;padding-left:15px;font-size:13px;">Type: <span style="color:green">MySQL</span></p>
+    <p style="margin:0;padding-left:15px;font-size:13px;">Databases: 1</p>
+    <h4 style="padding-left:10px;margin:8px;">Websocket (Bus)</h4>
+    <p style="margin:0;padding-left:15px;font-size:13px;">Conectado: <span style="color:red">false</span></p>
+    <p style="margin:0;padding-left:15px;font-size:13px;">Puerto: <span style="color:red">none</span></p>
 </div>
 
 </div>
