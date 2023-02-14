@@ -49,7 +49,7 @@
 <div class="debug2">
     <h3 style="padding-left:5px;margin:10px;">Debug 🐛</h3>
     <h4 style="padding-left:10px;margin:8px;">App</h4>
-    <p style="margin:0;padding-left:15px;font-size:13px;">Version: <span style="color:#47B0F9">v1.0.3</span></p>
+    <p style="margin:0;padding-left:15px;font-size:13px;">Version: <span style="color:#47B0F9">v2.0.2</span></p>
     <p style="margin:0;padding-left:15px;font-size:13px;">Logged In: <span style="color:green">true</span></p>
     <p style="margin:0;padding-left:15px;font-size:13px;">Coded in: HTML, CSS, PHP, JS</p>
     <h4 style="padding-left:10px;margin:8px;">Networking</h4>
