@@ -11,8 +11,8 @@
 <div class="">
 <h1 style="font-size: 4.4rem;margin-bottom: 0px;">ERROR 404</h1>
 <h2 style="margin-top: 0.1em; margin-bottom: 3em;">NOT FOUND</h2>
-<h2 style="font-size: 1.3em; line-height: 27px; font-weight: normal;">It seems that whatever you are looking for is not found, if you think something should be here, you can contact support by sending an email to <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c0b3b5b0b0afb2b480b8a5b6aea5b4eea3afadee">[email&#160;protected]</a></h2>
-<h2 style="font-size: 1.3em; line-height: 27px; font-weight: normal;"><u><a href="#1">Go back</a></u> or <a href="#1">return to the homepage</a>.</h2>
+<h2 style="font-size: 1.3em; line-height: 27px; font-weight: normal;">It seems that whatever you are looking for is not found.</h2>
+<h2 style="font-size: 1.3em; line-height: 27px; font-weight: normal;"><a href="/index.php">return to the homepage</a>.</h2>
 <h2 style="font-size: 1.3em; line-height: 27px; font-weight: normal;">Good luck.</h2>
 </div>
 </div>
