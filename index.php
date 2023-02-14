@@ -30,7 +30,7 @@
 
     <main>
         <img src="./assets/images/duck.gif">
-        <p style="font-size:50px">Plataforma para crear<br><b>comunidades de desarrollo.</b></p>
+        <p style="font-size:50px">Plataforma para socializar en<br><b>comunidades de desarrollo.</b></p>
         <p style="font-size:20px">Nuestro objetivo es crear un entorno agradable y <br>productivo donde los usuarios puedan compartir sobre <br>la tecnología.</p>
 
         <div class="cuadro" style="background-color: #24282e">
