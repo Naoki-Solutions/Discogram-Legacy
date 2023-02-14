@@ -10,10 +10,8 @@
 <div style="margin: 4em 6em; max-width: 50em;">
 <div class="">
 <h1 style="font-size: 4.4rem;margin-bottom: 0px;">ERROR 404</h1>
-<h2 style="margin-top: 0.1em; margin-bottom: 3em;">NOT FOUND</h2>
+<h2 style="margin-top: 0.1em; margin-bottom:1em;">NOT FOUND</h2>
 <h2 style="font-size: 1.3em; line-height: 27px; font-weight: normal;">It seems that whatever you are looking for is not found.</h2>
-<h2 style="font-size: 1.3em; line-height: 27px; font-weight: normal;"><a href="/index.php">return to the homepage</a>.</h2>
-<h2 style="font-size: 1.3em; line-height: 27px; font-weight: normal;">Good luck.</h2>
 </div>
 </div>
 <style media="screen">
