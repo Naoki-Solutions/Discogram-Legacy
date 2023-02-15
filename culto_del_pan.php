@@ -24,10 +24,11 @@
 </div>
 
 <div class="test">
-    <a href="./main.php"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-solid fa-house"></i></h1></a>
+    <a href="./index.php"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-solid fa-house"></i></h1></a>
     <a href="https://discord.gg/YvFGRAw2wx"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-brands fa-discord"></i></h1></a>
+    <a href="general_developers.php"><img style="width:40px;background-color:#21252b" src="gdevtrans.png"></a>
     <a href="culto_del_pan.php"><img style="width:40px;background-color:#21252b" src="bread.png"></a>
-    <a href="./settings"><h1 style="font-size:20px;padding:26rem;padding-left:14px;"><i style="color:#85898f;" class="fa-solid fa-gear"></i></h1></a>
+    <a href="settings.php"><h1 style="margin:0;font-size:20px;padding:28rem;padding-left:14px;"><i style="margin:0;color:#85898f;" class="fa-solid fa-gear"></i></h1></a>
 </div>
 
 <div class="test2">
