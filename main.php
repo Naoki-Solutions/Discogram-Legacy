@@ -32,13 +32,13 @@
     <a href="culto_del_pan.php"><span style="padding-left:6rem;margin:0;color:green;font-family: 'Inconsolata', monospace;">Click aqui para acceder</span></a>
     <hr>
     <h3 style="padding-left:6rem;">Main Developers</h3>
-    <p style="padding-left:6rem;margin:0;">Este es un grupo donde charlarmos sobre el pan, y lo alabamos.</p>
+    <p style="padding-left:6rem;margin:0;">En este gremio compartimos cosas sobre la programacion.</p>
     <br>
     <p style="padding-left:6rem;margin:0;">Creado: 14/2/2023 (14 feb 2023)</p>
     <p style="padding-left:6rem;margin:0;">Estado: <span style="color:red">Cerrado</span></p>
     <p style="padding-left:6rem;margin:0;">Actividad: 0%</p>
     <br>
-    <a href="culto_del_pan.php"><span style="padding-left:6rem;margin:0;color:green;font-family: 'Inconsolata', monospace;">Click aqui para acceder</span></a>
+    <a href="main_developers.php"><span style="padding-left:6rem;margin:0;color:green;font-family: 'Inconsolata', monospace;">Click aqui para acceder</span></a>
     <br>
     <hr>
 </div>
@@ -47,7 +47,7 @@
 <div class="test">
     <a href="./index.php"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-solid fa-house"></i></h1></a>
     <a href="https://discord.gg/YvFGRAw2wx"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-brands fa-discord"></i></h1></a>
-    <a href="general_developers.php"><img style="width:40px;background-color:#21252b" src="gdevtrans.png"></a>
+    <a href="main_developers.php"><img style="width:40px;background-color:#21252b" src="gdevtrans.png"></a>
     <a href="culto_del_pan.php"><img style="width:40px;background-color:#21252b" src="bread.png"></a>
     <a href="settings.php"><h1 style="margin:0;font-size:20px;padding:28rem;padding-left:14px;"><i style="margin:0;color:#85898f;" class="fa-solid fa-gear"></i></h1></a>
 </div>
