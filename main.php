@@ -29,7 +29,7 @@
     <p style="padding-left:6rem;margin:0;">Estado: <span style="color:green">Abierto</span></p>
     <p style="padding-left:6rem;margin:0;">Actividad: 0%</p>
     <br>
-    <a href="culto_del_pan.php"><span style="padding-left:6rem;margin:0;color:green;font-family: 'Inconsolata', monospace;">Click aqui para acceder</span></a>
+    <a href="./culto_del_pan"><span style="padding-left:6rem;margin:0;color:green;font-family: 'Inconsolata', monospace;">Click aqui para acceder</span></a>
     <hr>
     <h3 style="padding-left:6rem;">Main Developers</h3>
     <p style="padding-left:6rem;margin:0;">En este gremio compartimos cosas sobre la programacion.</p>
@@ -38,23 +38,23 @@
     <p style="padding-left:6rem;margin:0;">Estado: <span style="color:red">Cerrado</span></p>
     <p style="padding-left:6rem;margin:0;">Actividad: 0%</p>
     <br>
-    <a href="main_developers.php"><span style="padding-left:6rem;margin:0;color:green;font-family: 'Inconsolata', monospace;">Click aqui para acceder</span></a>
+    <a href="./main_developers"><span style="padding-left:6rem;margin:0;color:green;font-family: 'Inconsolata', monospace;">Click aqui para acceder</span></a>
     <br>
     <hr>
 </div>
 </div>
 
 <div class="test">
-    <a href="./index.php"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-solid fa-house"></i></h1></a>
+    <a href="./index"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-solid fa-house"></i></h1></a>
     <a href="https://discord.gg/YvFGRAw2wx"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-brands fa-discord"></i></h1></a>
-    <a href="main_developers.php"><img style="width:40px;background-color:#21252b" src="gdevtrans.png"></a>
-    <a href="culto_del_pan.php"><img style="width:40px;background-color:#21252b" src="bread.png"></a>
-    <a href="settings.php"><h1 style="margin:0;font-size:20px;padding:28rem;padding-left:14px;"><i style="margin:0;color:#85898f;" class="fa-solid fa-gear"></i></h1></a>
+    <a href="main_developers"><img style="width:40px;background-color:#21252b" src="gdevtrans.png"></a>
+    <a href="./culto_del_pan"><img style="width:40px;background-color:#21252b" src="bread.png"></a>
+    <a href="./settings"><h1 style="margin:0;font-size:20px;padding:28rem;padding-left:14px;"><i style="margin:0;color:#85898f;" class="fa-solid fa-gear"></i></h1></a>
 </div>
 
 <div class="test2">
 <h4 style="padding-left:20px;"><i class="fa-solid fa-comments"></i> Chat Global</h4>
-<a href="informacion.php" style="color:#85898f;"><h4 style="padding-left:20px;"><i class="fa-solid fa-circle-info"></i> Informacion</h4></a>
+<a href="./informacion" style="color:#85898f;"><h4 style="padding-left:20px;"><i class="fa-solid fa-circle-info"></i> Informacion</h4></a>
 <h4 style="padding-left:20px;"><i class="fa-solid fa-map"></i> Explorar</h4>
 <h4 style="padding-left:20px;"><i class="fa-solid fa-shop"></i> Tienda</h4>
 <h4 style="padding-left:20px;"><i class="fa-solid fa-lock"></i> Admin Room</h4>
