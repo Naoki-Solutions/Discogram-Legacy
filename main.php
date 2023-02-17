@@ -53,8 +53,8 @@
 </div>
 
 <div class="test2">
-<h4 style="padding-left:20px;"><i class="fa-solid fa-user"></i> Personas Relevantes</h4>
 <h4 style="padding-left:20px;"><i class="fa-solid fa-comments"></i> Chat Global</h4>
+<h4 style="padding-left:20px;"><i class="fa-solid fa-circle-info"></i> Informacion</h4>
 <h4 style="padding-left:20px;"><i class="fa-solid fa-map"></i> Explorar</h4>
 <h4 style="padding-left:20px;"><i class="fa-solid fa-shop"></i> Tienda</h4>
 <h4 style="padding-left:20px;"><i class="fa-solid fa-lock"></i> Admin Room</h4>
