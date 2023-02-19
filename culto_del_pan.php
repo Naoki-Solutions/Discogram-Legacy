@@ -16,11 +16,9 @@
 </main>
 
 <div class="maincontainer">
-    <h1 style="padding-left:7rem;font-family: 'Inconsolata', monospace;">El Culto del Pan</h1>
+    <h1 style="padding-left:5rem;font-family: 'Inconsolata', monospace;">🍞 El Culto del Pan<img style="margin:0;padding-left:10px;width:25px;" src="./assets/images/verified2.png"></h1>
     <h2 style="padding-left:7rem;">Que es esto?</h2>
-    <p style="padding-left:7rem;">El culto del pan es un lugar en donde alabamos y adoramos el pan.</p>
-    <h2 style="padding-left:7rem;">Que hacer aqui?</h2>
-    <p style="padding-left:7rem;">Alabar el pan.</p>
+    <p style="padding-left:7rem;">Este es un grupo oficial de Naoki OnNet, aqui podras encontrar<br>cosas relacionadas con la aplicacion y con la empresa.</p>
 </div>
 
 <div class="test">
@@ -52,7 +50,8 @@
 
 <div class="debug">
 
-<h4 style="padding-left:10px;"><i class="fa-solid fa-user"></i> Personas Conectadas</h4>
+<h4 style="padding-left:10px;"><i class="fa-solid fa-hashtag"></i> Canales Recomendados</h4>
+<hr>
 
 </div>
 

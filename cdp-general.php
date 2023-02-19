@@ -24,6 +24,7 @@
   <div style="padding:1rem;padding-left:5rem;">
   <input style="width:40rem;height:3rem;background-color:#353943;border-radius:5px;border:solid #353943 1px;color:gray;border:" type="text" id="messageBox" placeholder="Enviar un mensaje a #general">
   <button id="send" class="br c_bl" style="background-color:#3d4eae;border-color:#3d4eae;">Send</button>
+  <button id="emoji-button" style="border:solid #24282e 1px;background-color:#24282e;">💚</button>
 </div>
 </div>
 
@@ -76,8 +77,10 @@
 </div>
 
 <script src="https://kit.fontawesome.com/c27ee28938.js" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/@joeattardi/emoji-button@3.0.3/dist/index.min.js"></script>
+<script src="./emoji.js"></script>
 <script>
-    (function() {
+(function () {
     const sendBtn = document.querySelector('#send');
     const messages = document.querySelector('#messages');
     const messageBox = document.querySelector('#messageBox');
@@ -85,39 +88,47 @@
     let ws;
 
     function showMessage(message) {
-      messages.textContent += `\n\n${message}`;
-      messages.scrollTop = messages.scrollHeight;
-      messageBox.value = '';
+        messages.textContent += `\n\n${message}`;
+        messages.scrollTop = messages.scrollHeight;
+        messageBox.value = '';
     }
 
     function init() {
-      if (ws) {
-        ws.onerror = ws.onopen = ws.onclose = null;
-        ws.close();
-      }
+        if (ws) {
+            ws.onerror = ws.onopen = ws.onclose = null;
+            ws.close();
+        }
 
-      ws = new WebSocket('ws://localhost:6969');
-      ws.onopen = () => {
-        console.log('Connection opened!');
-      }
-      ws.onmessage = ({ data }) => showMessage(data);
-      ws.onclose = function() {
-        ws = null;
-      }
+        ws = new WebSocket('ws://localhost:6969');
+        ws.onopen = () => {
+            console.log('Connection opened!');
+        }
+        ws.onmessage = ({ data }) => showMessage(data);
+        ws.onclose = function () {
+            ws = null;
+        }
     }
 
-    sendBtn.onclick = function() {
-      if (!ws) {
-        showMessage("No WebSocket connection :(");
-        return ;
-      }
+    sendBtn.onclick = function () {
+        if (!ws) {
+            showMessage("No WebSocket connection :(");
+            return;
+        }
 
-      ws.send(messageBox.value);
-      showMessage(messageBox.value);
+        ws.send(messageBox.value);
+        showMessage(messageBox.value);
     }
+
+    var input = document.getElementById("messageBox");
+    input.addEventListener("keypress", function (event) {
+        if (event.key === "Enter") {
+            ws.send(messageBox.value);
+            showMessage(messageBox.value);
+        }
+    });
 
     init();
-  })();
+})();
 </script>
 
 </body>
