@@ -27,13 +27,25 @@
     <a href="./main"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-solid fa-house"></i></h1></a>
     <a href="./explorar"><h1 style="font-size:20px;padding-left:12px"><i style="color:#85898f;" class="fa-solid fa-compass"></i></h1></a>
     <a href="https://discord.gg/YvFGRAw2wx"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-brands fa-discord"></i></h1></a>
-    <a href="main_developers"><img style="width:40px;background-color:#21252b" src="gdevtrans.png"></a>
+    <a href="main_developers"><img style="width:40px;background-color:#21252b" src="./assets/images/gdevtrans.png"></a>
     <a href="./culto_del_pan"><img style="width:40px;background-color:#21252b" src="bread.png"></a>
 </div>
 
 <div class="test2">
-<h4 style="padding-left:20px;"><i class="fa-solid fa-hashtag"></i> <a style="color:#85898f;" href="./cdp-general">general</a></h4>
-<h4 style="padding-left:20px;"><i class="fa-solid fa-hashtag"></i> <a style="color:#85898f;">imagenes</a></h4>
+<h2 style="font-size:20px;padding-left:20px;">El culto del Pan</h2>
+<hr>
+<h4 style="padding-left:20px;font-family:sans-serif;font-size:14px;"><i class="fa-solid fa-chevron-down"></i> Social</h4>
+<h4 style="padding-left:20px;"><i class="fa-solid fa-hashtag"></i> <a style="color:#85898f;" href="./cdp-general">General</a></h4>
+<h4 style="padding-left:20px;"><i class="fa-solid fa-image"></i> <a style="color:#85898f;">Memes</a></h4>
+<h4 style="padding-left:20px;"><i class="fa-solid fa-volume-high"></i> <a style="color:#85898f;">Audio</a></h4>
+<h4 style="padding-left:20px;font-family:sans-serif;font-size:14px;"><i class="fa-solid fa-chevron-down"></i> Naoki</h4>
+<h4 style="padding-left:20px;"><a style="color:#85898f;" href="./cdp-announcements">📢 Announcements</a></h4>
+<h4 style="padding-left:20px;"><a style="color:#85898f;" href="./cdp-bugreport">🪲 Bug Report</a></h4>
+<h4 style="padding-left:20px;"><a style="color:#85898f;" href="./cdp-suggestions">💡 Suggestions</a></h4>
+<h4 style="padding-left:20px;font-family:sans-serif;font-size:14px;"><i class="fa-solid fa-chevron-down"></i> Social Networks</h4>
+<h4 style="padding-left:23px;"><i class="fa-brands fa-discord"></i> <a style="color:#85898f;" href="https://discord.com/invite/YvFGRAw2wx">Discord</a></h4>
+<h4 style="padding-left:25px;"><i class="fa-brands fa-github"></i> <a style="color:#85898f;" href="https://github.com/Naoki-Solutions/NaokiOnNet">Github</a></h4>
+<h4 style="padding-left:25px;"><i class="fa-brands fa-twitter"></i> <a style="color:#85898f;" href="https://twitter.com/NaokiSolutions">Twitter</a></h4>
 </div>
 
 <div class="debug">
@@ -43,49 +55,6 @@
 </div>
 
 <script src="https://kit.fontawesome.com/c27ee28938.js" crossorigin="anonymous"></script>
-<script>
-    (function() {
-    const sendBtn = document.querySelector('#send');
-    const messages = document.querySelector('#messages');
-    const messageBox = document.querySelector('#messageBox');
-
-    let ws;
-
-    function showMessage(message) {
-      messages.textContent += `\n\n${message}`;
-      messages.scrollTop = messages.scrollHeight;
-      messageBox.value = '';
-    }
-
-    function init() {
-      if (ws) {
-        ws.onerror = ws.onopen = ws.onclose = null;
-        ws.close();
-      }
-
-      ws = new WebSocket('ws://localhost:6969');
-      ws.onopen = () => {
-        console.log('Connection opened!');
-      }
-      ws.onmessage = ({ data }) => showMessage(data);
-      ws.onclose = function() {
-        ws = null;
-      }
-    }
-
-    sendBtn.onclick = function() {
-      if (!ws) {
-        showMessage("No WebSocket connection :(");
-        return ;
-      }
-
-      ws.send(messageBox.value);
-      showMessage(messageBox.value);
-    }
-
-    init();
-  })();
-</script>
 
 </body>
 </html>
