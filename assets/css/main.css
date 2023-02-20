@@ -5,7 +5,17 @@
 
 */
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&display=swap');
-h1,h2,h3,h4,p {
+
+@font-face {
+    font-family: 'Uni-Sans';
+    src: url('../fonts/Uni-Sans.otf') format('woff2'),
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
     font-family: 'Inconsolata', monospace;
 }
 
@@ -21,7 +31,7 @@ h1,h2,h3,h4,p {
 
 .debug2 {
     background-color: #1b1f24;
-    width: 200px; 
+    width: 200px;
     margin: 0;
     height: 25rem;
     position: absolute;
@@ -32,7 +42,7 @@ h1,h2,h3,h4,p {
 
 .debug3 {
     background-color: #1b1f24;
-    width: 200px; 
+    width: 200px;
     margin: 0;
     height: 10rem;
     position: absolute;
@@ -43,7 +53,7 @@ h1,h2,h3,h4,p {
 
 .line {
     background-color: #21252b;
-    width: 180px; 
+    width: 180px;
     margin: 0;
     height: 10px;
     position: absolute;
