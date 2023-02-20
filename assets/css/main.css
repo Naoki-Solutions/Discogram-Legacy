@@ -29,6 +29,28 @@ h1,h2,h3,h4,p {
     border-radius: 5px;
 }
 
+.debug3 {
+    background-color: #1b1f24;
+    width: 200px; 
+    margin: 0;
+    height: 10rem;
+    position: absolute;
+    left: 10px;
+    top: 29rem;
+    border-radius: 5px;
+}
+
+.line {
+    background-color: #21252b;
+    width: 180px; 
+    margin: 0;
+    height: 10px;
+    position: absolute;
+    left: 10px;
+    bottom: 1rem;
+    border-radius: 5px;
+}
+
 .maincontainer {
     background-color: #24282e;
     width: 70rem;
