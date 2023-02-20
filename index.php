@@ -34,7 +34,7 @@
         <p style="font-size:20px">Nuestro objetivo es crear un entorno agradable y <br>productivo donde los usuarios puedan compartir sobre <br>la tecnología.</p>
 
         <div class="cuadro" style="background-color: #24282e">
-            <h4>Información</h4> 
+            <h4><i class="fa-solid fa-circle-info"></i> Información</h4> 
             <p>De momento, esta app solo se encuentra disponible para beta-testers.</p>
         </div>
         <br>
