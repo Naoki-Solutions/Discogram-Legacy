@@ -54,6 +54,12 @@
 <h4 style="padding-left:10px;"><i class="fa-solid fa-hashtag"></i> Canales Recomendados</h4>
 <hr>
 
+<div class="debug3" style="left:10px;bottom:0px;">
+<h4 style="padding-left:10px;margin:8px;"><i class="fa-solid fa-server"></i> Advertencia</h4>
+<p style="padding-left:10px;margin:8px;font-size:12x;font-family:sans-serif;">Es posible que el servicio de <b style="font-size:14px;">WebSockets</b> no se encuentre disponible.</p>
+<div class="line"></div>
+</div>
+
 </div>
 
 <script src="https://kit.fontawesome.com/c27ee28938.js" crossorigin="anonymous"></script>

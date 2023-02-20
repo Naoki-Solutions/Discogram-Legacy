@@ -50,15 +50,17 @@
 </div>
 
 <div class="test2">
-<h4 style="padding-left:20px;"><i class="fa-solid fa-comments"></i> Chat Global</h4>
-<a href="./informacion" style="color:#85898f;"><h4 style="padding-left:20px;"><i class="fa-solid fa-circle-info"></i> Informacion</h4></a>
-<a href="./explorar" style="color:#85898f;"><h4 style="padding-left:20px;"><i class="fa-solid fa-map"></i> Explorar</h4></a>
-<h4 style="padding-left:20px;"><i class="fa-solid fa-shop"></i> Tienda</h4>
-<h4 style="padding-left:20px;"><i class="fa-solid fa-lock"></i> Admin Room</h4>
+<h4 style="padding-left:20px;font-weight:100"><i class="fa-solid fa-comments"></i> Chat Global</h4>
+<a href="./informacion" style="color:#85898f;"><h4 style="padding-left:20px;font-weight:100"><i class="fa-solid fa-circle-info"></i> Informacion</h4></a>
+<a href="./explorar" style="color:#85898f;"><h4 style="padding-left:20px;font-weight:100"><i class="fa-solid fa-map"></i> Explorar</h4></a>
+<h4 style="padding-left:20px;font-weight:100"><i class="fa-solid fa-shop"></i> Tienda</h4>
+<h4 style="padding-left:20px;font-weight:100"><i class="fa-solid fa-lock"></i> Admin Room</h4>
 <hr>
-<h4 style="padding-left:20px;">Desarrollador</h4>
-<h4 style="padding-left:20px;"><i class="fa-solid fa-lock"></i> Academia</h4>
-<h4 style="padding-left:20px;"><i class="fa-solid fa-book"></i> Recursos</h4>
+<h4 style="padding-left:20px;font-family:sans-serif;font-weight:600">Desarrollador</h4>
+<h4 style="padding-left:20px;font-size:15px;font-weight:100"><i class="fa-solid fa-lock"></i> Academia</h4>
+<h4 style="padding-left:20px;font-size:15px;font-weight:100"><i class="fa-solid fa-book"></i> Recursos</h4>
+<h4 style="padding-left:20px;font-family:sans-serif;">Otros</h4>
+<h4 style="padding-left:20px;font-size:15px;font-weight:100"><i class="fa-solid fa-file"></i> Politica de Privacidad</h4>
 </div>
 
 <div class="debug">
