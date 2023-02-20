@@ -59,7 +59,11 @@
     <p style="margin:0;padding-left:15px;font-size:13px;">Conectado: <span style="color:red">false</span></p>
     <p style="margin:0;padding-left:15px;font-size:13px;">Puerto: <span style="color:red">none</span></p>
 </div>
-
+<div class="debug3">
+<h4 style="padding-left:10px;margin:8px;"><i class="fa-solid fa-server"></i> Advertencia</h4>
+<p style="padding-left:10px;margin:8px;font-size:12x;font-family:sans-serif;">Es posible que el servicio de <b style="font-size:14px;">WebSockets</b> no se encuentre disponible.</p>
+<div class="line"></div>
+</div>
 </div>
 
 <script src="https://kit.fontawesome.com/c27ee28938.js" crossorigin="anonymous"></script>

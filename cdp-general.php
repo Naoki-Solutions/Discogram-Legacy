@@ -73,6 +73,13 @@
     <h4 style="padding-left:10px;margin:8px;">Websocket (Bus)</h4>
     <p style="margin:0;padding-left:15px;font-size:13px;">Conectado: <span style="color:green">true</span></p>
     <p style="margin:0;padding-left:15px;font-size:13px;">Puerto: <span style="color:green">6969</span></p>
+
+<div class="debug3">
+<h4 style="padding-left:10px;margin:8px;"><i class="fa-solid fa-server"></i> Advertencia</h4>
+<p style="padding-left:10px;margin:8px;font-size:12x;font-family:sans-serif;">Es posible que el servicio de <b style="font-size:14px;">WebSockets</b> no se encuentre disponible.</p>
+<div class="line"></div>
+
+</div>
 </div>
 
 </div>
