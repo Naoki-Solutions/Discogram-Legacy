@@ -18,7 +18,7 @@
                 <input class="p9 br bg_3 bo bo_s f14 co_2 t02" type="password" id="pass" name="pass" />  
 </div>  
             <div class="df jce mt10">
-            <button class="p4 pl20 pr20 dfac aic br c_bl" style="background-color:#3d4eae;border-color:#3d4eae;">Iniciar</button>
+            <button class="p4 pl20 pr20 dfac aic br c_bl" style="background-color:#3d4eae;border-color:#3d4eae;">Iniciar Sesion</button>
 </div>
         </form>  
     </div>  
