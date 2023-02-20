@@ -1,6 +1,6 @@
 <html>  
 <head>  
-    <title>PHP login system</title>  
+    <title>Naoki OnNet Login</title>  
     <link rel = "stylesheet" type = "text/css" href = "./assets/css/login.css">
     <link rel = "stylesheet" type = "text/css" href = "./assets/css/plot.css"> 
 </head>  
