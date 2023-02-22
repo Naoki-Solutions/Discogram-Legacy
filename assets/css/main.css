@@ -110,3 +110,14 @@ p {
 ::-webkit-scrollbar-thumb:hover {
     background: #555;
 }
+
+.user1 {
+    background-color: #1b1f24;
+    width: 15rem;
+    height: 5rem;
+    position: absolute;
+    left: 100px;
+    top: 14rem;
+    border-radius: 5px;
+    justify-content: center;
+}
