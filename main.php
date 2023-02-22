@@ -42,19 +42,18 @@
 
 <div class="test">
     <a href="./index"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-solid fa-house"></i></h1></a>
-    <a href="./explorar"><h1 style="font-size:20px;padding-left:12px"><i style="color:#85898f;" class="fa-solid fa-compass"></i></h1></a>
-    <a href="./herramientas"><h1 style="font-size:20px;padding-left:12px"><i style="color:#85898f;" class="fa-solid fa-wrench"></i></h1></a>
-    <a href="./radio"><h1 style="font-size:20px;padding-left:13px"><i style="color:#85898f;" class="fa-solid fa-radio"></i></h1></a>
-    <a href="./users"><h1 style="font-size:20px;padding-left:13px"><i style="color:#85898f;" class="fa-solid fa-user"></i></h1></a>
+    <a href="./content/explorar"><h1 style="font-size:20px;padding-left:12px"><i style="color:#85898f;" class="fa-solid fa-compass"></i></h1></a>
+    <a href="./content/herramientas"><h1 style="font-size:20px;padding-left:12px"><i style="color:#85898f;" class="fa-solid fa-wrench"></i></h1></a>
+    <a href="./content/radio"><h1 style="font-size:20px;padding-left:13px"><i style="color:#85898f;" class="fa-solid fa-radio"></i></h1></a>
     <a href="https://discord.gg/YvFGRAw2wx"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-brands fa-discord"></i></h1></a>
-    <a href="main_developers"><img style="width:40px;background-color:#21252b" src="./assets/images/gdevtrans.png"></a>
-    <a href="./culto_del_pan"><img style="width:40px;background-color:#21252b" src="./assets/images/bread.png"></a>
+    <a href="./content/main_developers"><img style="width:40px;background-color:#21252b" src="./assets/images/gdevtrans.png"></a>
+    <a href="./content/culto_del_pan"><img style="width:40px;background-color:#21252b" src="./assets/images/bread.png"></a>
 </div>
 
 <div class="test2">
 <h4 style="padding-left:20px;font-weight:100"><i class="fa-solid fa-comments"></i> Chat Global</h4>
-<a href="./informacion" style="color:#85898f;"><h4 style="padding-left:20px;font-weight:100"><i class="fa-solid fa-circle-info"></i> Informacion</h4></a>
-<a href="./explorar" style="color:#85898f;"><h4 style="padding-left:20px;font-weight:100"><i class="fa-solid fa-map"></i> Explorar</h4></a>
+<a href="./content/informacion" style="color:#85898f;"><h4 style="padding-left:20px;font-weight:100"><i class="fa-solid fa-circle-info"></i> Informacion</h4></a>
+<a href="./content/explorar" style="color:#85898f;"><h4 style="padding-left:20px;font-weight:100"><i class="fa-solid fa-map"></i> Explorar</h4></a>
 <h4 style="padding-left:20px;font-weight:100"><i class="fa-solid fa-shop"></i> Tienda</h4>
 <h4 style="padding-left:20px;font-weight:100"><i class="fa-solid fa-lock"></i> Admin Room</h4>
 <hr>

@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel = "stylesheet" type = "text/css" href = "./assets/css/plot.css"> 
-    <link rel = "stylesheet" type = "text/css" href = "./assets/css/colors.css">
-    <link rel = "stylesheet" type = "text/css" href = "./assets/css/pan.css">
+    <link rel = "stylesheet" type = "text/css" href = "../assets/css/plot.css"> 
+    <link rel = "stylesheet" type = "text/css" href = "../assets/css/colors.css">
+    <link rel = "stylesheet" type = "text/css" href = "../assets/css/pan.css">
     <title>Document</title>
 </head>
 <body>
@@ -29,14 +29,13 @@
 </div>
 
 <div class="test">
-    <a href="./main"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-solid fa-house"></i></h1></a>
+    <a href="../main"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-solid fa-house"></i></h1></a>
     <a href="./explorar"><h1 style="font-size:20px;padding-left:12px"><i style="color:#85898f;" class="fa-solid fa-compass"></i></h1></a>
     <a href="./herramientas"><h1 style="font-size:20px;padding-left:12px"><i style="color:#85898f;" class="fa-solid fa-wrench"></i></h1></a>
     <a href="./radio"><h1 style="font-size:20px;padding-left:13px"><i style="color:#85898f;" class="fa-solid fa-radio"></i></h1></a>
-    <a href="./users"><h1 style="font-size:20px;padding-left:13px"><i style="color:#85898f;" class="fa-solid fa-user"></i></h1></a>
     <a href="https://discord.gg/YvFGRAw2wx"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-brands fa-discord"></i></h1></a>
-    <a href="main_developers"><img style="width:40px;background-color:#21252b" src="./assets/images/gdevtrans.png"></a>
-    <a href="./culto_del_pan"><img style="width:40px;background-color:#21252b" src="./assets/images/bread.png"></a>
+    <a href="main_developers"><img style="width:40px;background-color:#21252b" src="../assets/images/gdevtrans.png"></a>
+    <a href="./culto_del_pan"><img style="width:40px;background-color:#21252b" src="../assets/images/bread.png"></a>
 </div>
 </div>
 

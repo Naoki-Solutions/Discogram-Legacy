@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel = "stylesheet" type = "text/css" href = "./assets/css/plot.css"> 
-    <link rel = "stylesheet" type = "text/css" href = "./assets/css/colors.css">
-    <link rel = "stylesheet" type = "text/css" href = "./assets/css/main.css">
+    <link rel = "stylesheet" type = "text/css" href = "../assets/css/plot.css"> 
+    <link rel = "stylesheet" type = "text/css" href = "../assets/css/colors.css">
+    <link rel = "stylesheet" type = "text/css" href = "../assets/css/main.css">
     <title>Naoki OnNet</title>
 </head>
 <body>
@@ -14,23 +14,20 @@
 
 <div class="maincontainer">
     <h1 style="padding-left:6rem;font-family: 'Inconsolata', monospace;">Naoki OnNet</h1>
-    <h2 style="padding-left:6rem;">Informacion</h2>
-    <p style="padding-left:6rem;margin:0;">Aqui podras encontra una lista de servidores donde podras chatear.</p>
+    <h2 style="padding-left:6rem;">Herramientas</h2>
+    <p style="padding-left:6rem;margin:0;">Aqui podras encontrar herramientas que te pueden ser utiles en tu dia a dia.</p>
     <p style="padding-left:6rem;margin:0;">Si encuentras algun bug, no olvides reportarlo en nuestro servidor de Discord.</p>
     <hr>
-    <h3 style="padding-left:6rem;">¿Que significa cada cosa?</h3>
-    <p style="padding-left:6rem;"><i class="fa-solid fa-hashtag"></i> Canal de Texto</p>
-    <p style="padding-left:6rem;"><i class="fa-solid fa-volume-high"></i> Canal de Voz</p>
-    <p style="padding-left:6rem;"><i class="fa-solid fa-circle-info"></i> Canal de Informacion</p>
 </div>
 
 <div class="test">
-    <a href="./main"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-solid fa-house"></i></h1></a>
+    <a href="../main"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-solid fa-house"></i></h1></a>
     <a href="./explorar"><h1 style="font-size:20px;padding-left:12px"><i style="color:#85898f;" class="fa-solid fa-compass"></i></h1></a>
     <a href="./herramientas"><h1 style="font-size:20px;padding-left:12px"><i style="color:#85898f;" class="fa-solid fa-wrench"></i></h1></a>
+    <a href="./radio"><h1 style="font-size:20px;padding-left:13px"><i style="color:#85898f;" class="fa-solid fa-radio"></i></h1></a>
     <a href="https://discord.gg/YvFGRAw2wx"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-brands fa-discord"></i></h1></a>
-    <a href="main_developers"><img style="width:40px;background-color:#21252b" src="./assets/images/gdevtrans.png"></a>
-    <a href="./culto_del_pan"><img style="width:40px;background-color:#21252b" src="./assets/images/bread.png"></a>
+    <a href="./main_developers"><img style="width:40px;background-color:#21252b" src="../assets/images/gdevtrans.png"></a>
+    <a href="./culto_del_pan"><img style="width:40px;background-color:#21252b" src="../assets/images/bread.png"></a>
 </div>
 
 <div class="test2">
@@ -65,7 +62,11 @@
     <p style="margin:0;padding-left:15px;font-size:13px;">Conectado: <span style="color:red">false</span></p>
     <p style="margin:0;padding-left:15px;font-size:13px;">Puerto: <span style="color:red">none</span></p>
 </div>
-
+<div class="debug3">
+<h4 style="padding-left:10px;margin:8px;"><i class="fa-solid fa-server"></i> Advertencia</h4>
+<p style="padding-left:10px;margin:8px;font-size:12x;font-family:sans-serif;">Es posible que el servicio de <b style="font-size:14px;">WebSockets</b> no se encuentre disponible.</p>
+<div class="line"></div>
+</div>
 </div>
 
 <script src="https://kit.fontawesome.com/c27ee28938.js" crossorigin="anonymous"></script>
