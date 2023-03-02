@@ -1,11 +1,10 @@
-/*
-* {
-    background-color: white;
-}
-*/
-
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 h1,h2,h3,h4,p {
     font-family: 'Inconsolata', monospace;
+}
+
+.test2 h4 {
+    font-family: 'Open Sans', sans-serif;
 }
 
 .debug {

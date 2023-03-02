@@ -38,7 +38,7 @@
 <h4 style="padding-left:20px;"><i class="fa-solid fa-house"></i> <a style="color:#85898f;" href="./culto_del_pan">Inicio</a></h4>
 <h4 style="padding-left:20px;"><i class="fa-solid fa-calendar"></i> <a style="color:#85898f;" href="./culto_del_pan">Eventos</a></h4>
 <h4 style="padding-left:20px;font-family:sans-serif;font-size:14px;"><i class="fa-solid fa-chevron-down"></i> Social</h4>
-<h4 style="padding-left:20px;"><i class="fa-solid fa-hashtag"></i> <a style="color:#85898f;" href="./cdp-general">General</a></h4>
+<h4 style="padding-left:20px;"><a style="color:#85898f;" href="./cdp-general">🌎 General</a></h4>
 <h4 style="padding-left:20px;"><i class="fa-solid fa-image"></i> <a style="color:#85898f;">Memes</a></h4>
 <h4 style="padding-left:20px;"><i class="fa-solid fa-volume-high"></i> <a style="color:#85898f;">Audio</a></h4>
 <h4 style="padding-left:20px;font-family:sans-serif;font-size:14px;"><i class="fa-solid fa-chevron-down"></i> Naoki</h4>

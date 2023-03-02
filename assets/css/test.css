@@ -1,0 +1,135 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.contenido {
+  height: 90vh;
+  display: grid;
+  grid-template-columns: 70px 250px auto 250px;
+}
+
+.nav-izquierdo {
+  background-color: #1b1f24;
+}
+.nav-izquierdo ul {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.nav-izquierdo ul li {
+  list-style: none;
+  background-color: #24282e;
+  border-radius: 100%;
+  padding: 20px;
+  margin: 10px;
+}
+.nav-izquierdo ul li a {
+  color: white;
+}
+.nav-izquierdo ul li a i {
+  scale: 1.5;
+}
+.nav-izquierdo ul li img {
+  width: 100%;
+}
+
+.sub-nav-izquierdo {
+  background-color: #21252b;
+  padding: 20px;
+}
+.sub-nav-izquierdo h3 {
+  text-align: center;
+  margin: 10px;
+}
+.sub-nav-izquierdo ul li {
+  margin-top: 20px;
+  list-style: none;
+}
+.sub-nav-izquierdo ul li i {
+  width: 10%;
+}
+.sub-nav-izquierdo ul li a {
+  color: white;
+}
+
+.chat-general {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  background-color: #24282e;
+}
+.chat-general h1 {
+  text-align: center;
+  color: white;
+  font-weight: 900;
+}
+.chat-general div {
+  height: 450px;
+  background-color: #21252b;
+  border-radius: 10px;
+}
+.chat-general form {
+  margin-top: 15px;
+  display: flex;
+}
+.chat-general form input, .chat-general form button {
+  height: 50px;
+  border: none;
+  margin: 5px;
+  border-radius: 10px;
+}
+.chat-general form input {
+  width: 90%;
+  padding: 20px;
+  background-color: #353943;
+  color: gray;
+}
+.chat-general form button {
+  width: 10%;
+  background-color: #3d4eae;
+  color: white;
+}
+
+.nav-derecho {
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #21252b;
+}
+.nav-derecho .arriba, .nav-derecho .abajo {
+  height: auto;
+  padding: 10px;
+  margin: 10px;
+  background-color: #1b1f24;
+  border-radius: 10px;
+}
+.nav-derecho h3, .nav-derecho h4 {
+  text-align: center;
+  margin: 10px;
+  font-weight: 900;
+}
+.nav-derecho .arriba li {
+  margin: 10px;
+  list-style: none;
+}
+.nav-derecho .arriba h4, .nav-derecho .arriba h3 {
+  color: white;
+}
+.nav-derecho .arriba span {
+  color: green;
+  font-weight: 900;
+}
+.nav-derecho .abajo {
+  text-align: center;
+  background-color: #5865f2;
+  color: black;
+}
+.nav-derecho .abajo p {
+  margin: 10px;
+}
+
+/*# sourceMappingURL=style.css.map */
