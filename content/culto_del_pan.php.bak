@@ -7,7 +7,7 @@
     <link rel = "stylesheet" type = "text/css" href = "../assets/css/plot.css"> 
     <link rel = "stylesheet" type = "text/css" href = "../assets/css/colors.css">
     <link rel = "stylesheet" type = "text/css" href = "../assets/css/pan.css">
-    <title>Document</title>
+    <title>El Culto del Pan</title>
 </head>
 <body>
 <div class="bg_1 h_aba df fs0"><div class="br3 df mw_abt aic pl10 pt2 fg1 pto03 ns"><span class="f13 ml7">Naoki OnNet</span></div><div class="df fs0 aic"><div class="dfac p0 bg_2 br mt5 mb5 ml1 mr1 nb_if_nh cp ns"><div class="w11 h11 br2 b2s co_4 df pr m3"><div class="df pa t-1 l-1 r-1 b-1"><div class="fg1 bgcc co_4 br2s"></div><div class="fg1 pl4"></div></div></div></div><div class="dfac p0 bg_2 br mt5 mb5 ml1 mr1 nb_if_nh cp ns"><div class="w11 h11 br2 b2s co_4 df pr m3"><div class="df pa t-1 l-1 r-1 b-1"><div class="fg1 pr4"></div><div class="fg1 bgcc co_4 bl2s"></div></div></div></div><div class="h16 bgcc co_4 w2 br2 ml5 mr5"></div><div class="dfac p0 bg_2 br mt5 mb5 ml1 mr1 nb_if_nh cp ns"><div class="w15 h15 br2 df pr gg2 m3"><div class="fg1 dfc"><div class="fg1 b2s co_4 br2"></div></div><div class="fg1 dfc gg2"><div class="fg1 b2s co_4 br2"></div><div class="fg1 b2s co_4 br2"></div></div></div></div></div><div class="hba01 df fs0 ml20"><div class="dfac fg1 pto02" id="botonMinimizarVentana"><svg width="29" height="30" version="1.1" viewBox="0 0 7.9375 7.9375"><rect x="2.3812" y="3.8365" width="3.075" height=".26458" fill="currentColor" stroke-width=".2581"></rect></svg></div><div class="dfac fg1 pto02" id="botonMaximizarVentana"><svg width="28" height="28" version="1.1" viewBox="0 0 7.9375 7.9375"><g fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width=".22388px"><path d="m2.6255 5.312h2.2388v-2.2388h-2.2388z"></path><path d="m5.312 4.7523v-2.1268h-2.1268"></path></g></svg></div><div class="dfac fg1 pto01" id="botonCerrarVentana"><svg width="23" height="23" version="1.1" viewBox="0 0 7.9375 7.9375"><path d="m2.3812 5.5562 3.175-3.175m-3.175 0 3.175 3.175" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".42917"></path></svg></div></div></div>
@@ -16,30 +16,24 @@
 </main>
 
 <div class="maincontainer">
-  <h1 style="padding-left:7rem;font-family: 'Inconsolata', monospace;">El Culto del Pan</h1>
- <div style="padding-left:80px;margin:0;">
-  <pre id="messages" style="background-color:#21252b;width:50rem;height:300px;overflow:auto;"></pre> 
- </div>
-
-  <div style="padding:1rem;padding-left:5rem;">
-  <input style="width:40rem;height:3rem;background-color:#353943;border-radius:5px;border:solid #353943 1px;color:gray;border:" type="text" id="messageBox" placeholder="Enviar un mensaje a #general">
-  <button id="send" class="br c_bl" style="background-color:#3d4eae;border-color:#3d4eae;">Send</button>
-  <button id="emoji-button" style="border:solid #24282e 1px;background-color:#24282e;">💚</button>
-</div>
+    <h1 style="padding-left:5rem;font-family: 'Inconsolata', monospace;">🍞 El Culto del Pan</h1>
+    <h2 style="padding-left:7rem;">Que es esto?</h2>
+    <p style="padding-left:7rem;">Este es un grupo oficial de Naoki OnNet, aqui podras encontrar<br>cosas relacionadas con la aplicacion y con la empresa.</p>
 </div>
 
 <div class="test">
     <a href="../main"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-solid fa-house"></i></h1></a>
     <a href="./explorar"><h1 style="font-size:20px;padding-left:12px"><i style="color:#85898f;" class="fa-solid fa-compass"></i></h1></a>
     <a href="./herramientas"><h1 style="font-size:20px;padding-left:12px"><i style="color:#85898f;" class="fa-solid fa-wrench"></i></h1></a>
+    <a href="./radio"><h1 style="font-size:20px;padding-left:13px"><i style="color:#85898f;" class="fa-solid fa-radio"></i></h1></a>
     <a href="https://discord.gg/YvFGRAw2wx"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-brands fa-discord"></i></h1></a>
-    <a href="main_developers"><img style="width:40px;background-color:#21252b" src="../assets/images/gdevtrans.png"></a>
+    <a href="./main_developers"><img style="width:40px;background-color:#21252b" src="../assets/images/gdevtrans.png"></a>
     <a href="./culto_del_pan"><img style="width:40px;background-color:#21252b" src="../assets/images/bread.png"></a>
 </div>
 </div>
 
 <div class="test2">
-<h2 style="font-size:20px;padding-left:20px;">El culto del Pan</h2>
+<h2 style="font-size:18px;padding-left:20px;">🍞 El culto del Pan</h2>
 <hr>
 <h4 style="padding-left:20px;"><i class="fa-solid fa-house"></i> <a style="color:#85898f;" href="./culto_del_pan">Inicio</a></h4>
 <h4 style="padding-left:20px;"><i class="fa-solid fa-calendar"></i> <a style="color:#85898f;" href="./culto_del_pan">Eventos</a></h4>
@@ -59,86 +53,18 @@
 
 <div class="debug">
 
-<div class="debug2">
-    <h3 style="padding-left:5px;margin:10px;">Debug 🐛</h3>
-    <h4 style="padding-left:10px;margin:8px;">App</h4>
-    <p style="margin:0;padding-left:15px;font-size:13px;">Version: <span style="color:#47B0F9">v2.1.0</span></p>
-    <p style="margin:0;padding-left:15px;font-size:13px;">Logged In: <span style="color:green">true</span></p>
-    <p style="margin:0;padding-left:15px;font-size:13px;">Coded in: HTML, CSS, PHP, JS</p>
-    <h4 style="padding-left:10px;margin:8px;">Networking</h4>
-    <p style="margin:0;padding-left:15px;font-size:13px;">Latency: <span style="color:green">0ms</span></p>
-    <p style="margin:0;padding-left:15px;font-size:13px;">ISP: Cisco</p>
-    <h4 style="padding-left:10px;margin:8px;">Database</h4>
-    <p style="margin:0;padding-left:15px;font-size:13px;">Type: <span style="color:green">MySQL</span></p>
-    <p style="margin:0;padding-left:15px;font-size:13px;">Databases: 1</p>
-    <h4 style="padding-left:10px;margin:8px;">Websocket (Bus)</h4>
-    <p style="margin:0;padding-left:15px;font-size:13px;">Conectado: <span style="color:green">true</span></p>
-    <p style="margin:0;padding-left:15px;font-size:13px;">Puerto: <span style="color:green">6969</span></p>
+<h4 style="padding-left:10px;"><i class="fa-solid fa-hashtag"></i> Canales Recomendados</h4>
+<hr>
 
-<div class="debug3">
+<div class="debug3" style="left:10px;bottom:0px;">
 <h4 style="padding-left:10px;margin:8px;"><i class="fa-solid fa-server"></i> Advertencia</h4>
 <p style="padding-left:10px;margin:8px;font-size:12x;font-family:sans-serif;">Es posible que el servicio de <b style="font-size:14px;">WebSockets</b> no se encuentre disponible.</p>
 <div class="line"></div>
-
-</div>
 </div>
 
 </div>
 
 <script src="https://kit.fontawesome.com/c27ee28938.js" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/@joeattardi/emoji-button@3.0.3/dist/index.min.js"></script>
-<script src="./assets/javascript/emoji.js"></script>
-<script>
-(function () {
-    const sendBtn = document.querySelector('#send');
-    const messages = document.querySelector('#messages');
-    const messageBox = document.querySelector('#messageBox');
-
-    let ws;
-
-    function showMessage(message) {
-        messages.textContent += `\n\n${message}`;
-        messages.scrollTop = messages.scrollHeight;
-        messageBox.value = '';
-    }
-
-    function init() {
-        if (ws) {
-            ws.onerror = ws.onopen = ws.onclose = null;
-            ws.close();
-        }
-
-        ws = new WebSocket('ws://localhost:6969');
-        ws.onopen = () => {
-            console.log('Connection opened!');
-        }
-        ws.onmessage = ({ data }) => showMessage(data);
-        ws.onclose = function () {
-            ws = null;
-        }
-    }
-
-    sendBtn.onclick = function () {
-        if (!ws) {
-            showMessage("No WebSocket connection :(");
-            return;
-        }
-
-        ws.send(messageBox.value);
-        showMessage(messageBox.value);
-    }
-
-    var input = document.getElementById("messageBox");
-    input.addEventListener("keypress", function (event) {
-        if (event.key === "Enter") {
-            ws.send(messageBox.value);
-            showMessage(messageBox.value);
-        }
-    });
-
-    init();
-})();
-</script>
 
 </body>
 </html>
