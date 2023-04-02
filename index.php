@@ -25,7 +25,7 @@
 <body>
 
     <div class="navbar">
-        <ul><b>Naoki Solutions</b></ul>
+        <ul><b>Discogram</b></ul>
     </div>
 
     <main>

@@ -8,7 +8,7 @@
     <div id="frm">  
         <center><h1>Iniciar sesión</h1></center>  
         <center><p>Introduce tus credenciales para continuar</p></center>
-        <form name="f1" action = "./phpLogin/authentication.php" onsubmit = "return validation()" method = "POST">  
+        <form name="f1" action = "./assets/php/authentication.php" onsubmit = "return validation()" method = "POST">  
             <div class="dfc gg">  
                 <span class="co_1 f11 ffbr mb7 ttu df aic t02">Usuario:</span>
                 <input class="p9 br bg_3 bo bo_s f14 co_2 t02" type="text" id="user" name="user" />  
