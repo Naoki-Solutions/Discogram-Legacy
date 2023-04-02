@@ -70,7 +70,7 @@
 <div class="debug2">
     <h3 style="padding-left:5px;margin:10px;">Debug 🐛</h3>
     <h4 style="padding-left:10px;margin:8px;">App</h4>
-    <p style="margin:0;padding-left:15px;font-size:13px;">Version: <span style="color:#47B0F9">v2.2.0</span></p>
+    <p style="margin:0;padding-left:15px;font-size:13px;">Version: <span id="version" style="color:#47B0F9"></span></p>
     <p style="margin:0;padding-left:15px;font-size:13px;">Logged In: <span style="color:green">true</span></p>
     <h4 style="padding-left:10px;margin:8px;">Networking</h4>
     <p style="margin:0;padding-left:15px;font-size:13px;">Latency: <span style="color:green">0ms</span></p>
@@ -90,7 +90,7 @@
 </div>
 
 </div>
-
+<script src="version.js"></script>
 <script src="https://kit.fontawesome.com/c27ee28938.js" crossorigin="anonymous"></script>
 
 </body>

@@ -24,24 +24,23 @@
     <a href="../main"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-solid fa-house"></i></h1></a>
     <a href="./explorar"><h1 style="font-size:20px;padding-left:12px"><i style="color:#85898f;" class="fa-solid fa-compass"></i></h1></a>
     <a href="./herramientas"><h1 style="font-size:20px;padding-left:12px"><i style="color:#85898f;" class="fa-solid fa-wrench"></i></h1></a>
-    <a href="./radio"><h1 style="font-size:20px;padding-left:13px"><i style="color:#85898f;" class="fa-solid fa-radio"></i></h1></a>
     <a href="https://discord.gg/YvFGRAw2wx"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-brands fa-discord"></i></h1></a>
     <a href="./main_developers"><img style="width:40px;background-color:#21252b" src="../assets/images/gdevtrans.png"></a>
     <a href="./culto_del_pan"><img style="width:40px;background-color:#21252b" src="../assets/images/bread.png"></a>
 </div>
 
 <div class="test2">
-<h4 style="padding-left:20px;font-weight:100"><i class="fa-solid fa-comments"></i> Chat Global</h4>
-<a href="./informacion" style="color:#85898f;"><h4 style="padding-left:20px;font-weight:100"><i class="fa-solid fa-circle-info"></i> Informacion</h4></a>
-<a href="./explorar" style="color:#85898f;"><h4 style="padding-left:20px;font-weight:100"><i class="fa-solid fa-map"></i> Explorar</h4></a>
-<h4 style="padding-left:20px;font-weight:100"><i class="fa-solid fa-shop"></i> Tienda</h4>
-<h4 style="padding-left:20px;font-weight:100"><i class="fa-solid fa-lock"></i> Admin Room</h4>
+<h4 style="padding-left:20px;"><i class="fa-solid fa-comments"></i> Chat Global</h4>
+<a href="./informacion" style="color:#85898f;"><h4 style="padding-left:20px;"><i class="fa-solid fa-circle-info"></i> Informacion</h4></a>
+<a href="./explorar" style="color:#85898f;"><h4 style="padding-left:20px;"><i class="fa-solid fa-map"></i> Explorar</h4></a>
+<h4 style="padding-left:20px;"><i class="fa-solid fa-shop"></i> Tienda</h4>
+<h4 style="padding-left:20px;"><i class="fa-solid fa-lock"></i> Admin Room</h4>
 <hr>
 <h4 style="padding-left:20px;font-family:sans-serif;font-weight:600">Desarrollador</h4>
-<h4 style="padding-left:20px;font-size:15px;font-weight:100"><i class="fa-solid fa-lock"></i> Academia</h4>
-<h4 style="padding-left:20px;font-size:15px;font-weight:100"><i class="fa-solid fa-book"></i> Recursos</h4>
+<h4 style="padding-left:20px;font-size:15px;"><i class="fa-solid fa-lock"></i> Academia</h4>
+<h4 style="padding-left:20px;font-size:15px;"><i class="fa-solid fa-book"></i> Recursos</h4>
 <h4 style="padding-left:20px;font-family:sans-serif;">Otros</h4>
-<h4 style="padding-left:20px;font-size:15px;font-weight:100"><i class="fa-solid fa-file"></i> Politica de Privacidad</h4>
+<h4 style="padding-left:20px;font-size:15px;"><i class="fa-solid fa-file"></i> Politica de Privacidad</h4>
 </div>
 
 <div class="debug">
@@ -49,7 +48,7 @@
 <div class="debug2">
     <h3 style="padding-left:5px;margin:10px;">Debug 🐛</h3>
     <h4 style="padding-left:10px;margin:8px;">App</h4>
-    <p style="margin:0;padding-left:15px;font-size:13px;">Version: <span style="color:#47B0F9">v2.1.0</span></p>
+    <p style="margin:0;padding-left:15px;font-size:13px;">Version: <span id="version" style="color:#47B0F9"></span></p>
     <p style="margin:0;padding-left:15px;font-size:13px;">Logged In: <span style="color:green">true</span></p>
     <p style="margin:0;padding-left:15px;font-size:13px;">Coded in: HTML, CSS, PHP, JS</p>
     <h4 style="padding-left:10px;margin:8px;">Networking</h4>
@@ -68,7 +67,7 @@
 <div class="line"></div>
 </div>
 </div>
-
+<script src="../version.js"></script>
 <script src="https://kit.fontawesome.com/c27ee28938.js" crossorigin="anonymous"></script>
 
 </body>
