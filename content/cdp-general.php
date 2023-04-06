@@ -85,7 +85,7 @@
 
 <script src="https://kit.fontawesome.com/c27ee28938.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/@joeattardi/emoji-button@3.0.3/dist/index.min.js"></script>
-<script src="./assets/javascript/emoji.js"></script>
+<script src="../assets/javascript/emoji.js"></script>
 <script>
 (function () {
     const sendBtn = document.querySelector('#send');
