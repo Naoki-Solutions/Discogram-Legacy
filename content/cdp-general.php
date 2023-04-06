@@ -22,7 +22,7 @@
  </div>
 
   <div style="padding:1rem;padding-left:5rem;">
-  <input style="width:40rem;height:3rem;background-color:#353943;border-radius:5px;border:solid #353943 1px;color:gray;border:" type="text" id="messageBox" placeholder="Enviar un mensaje a #general">
+  <input style="width:40rem;height:3rem;background-color:#353943;border-radius:5px;border:solid #353943 1px;color:gray;border:" type="text" id="messageBox" placeholder="Enviar un mensaje a #general" required>
   <button id="send" class="br c_bl" style="background-color:#3d4eae;border-color:#3d4eae;">Send</button>
   <button id="emoji-button" style="border:solid #24282e 1px;background-color:#24282e;">💚</button>
 </div>
