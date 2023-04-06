@@ -10,3 +10,5 @@ Discogram usa para el servicio de mensajes Websockets, que esta basado en Nodejs
 ## Requerimientos
 - Websockets (In Node.js)
 - Una base de datos MySQL
+
+# Como desplegar
