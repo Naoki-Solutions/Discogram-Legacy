@@ -71,7 +71,7 @@
     <p style="margin:0;padding-left:15px;font-size:13px;">Databases: 1</p>
     <h4 style="padding-left:10px;margin:8px;">Websocket (Bus)</h4>
     <p style="margin:0;padding-left:15px;font-size:13px;">Conectado: <span style="color:green">true</span></p>
-    <p style="margin:0;padding-left:15px;font-size:13px;">Puerto: <span style="color:green">12013</span></p>
+    <p style="margin:0;padding-left:15px;font-size:13px;">Puerto: <span style="color:green">5200</span></p>
 
 <div class="debug3">
 <h4 style="padding-left:10px;margin:8px;"><i class="fa-solid fa-server"></i> Advertencia</h4>
@@ -106,7 +106,7 @@
             ws.close();
         }
 
-        ws = new WebSocket('ws://172.111.50.151:12013');
+        ws = new WebSocket('ws://70.45.163.52:5200');
         ws.onopen = () => {
             console.log('Connection opened!');
         }
