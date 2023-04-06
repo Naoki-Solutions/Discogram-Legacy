@@ -25,18 +25,18 @@
 </div>
 
 <div class="test">
-    <a href="../main"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-solid fa-house"></i></h1></a>
-    <a href="./explorar"><h1 style="font-size:20px;padding-left:12px"><i style="color:#85898f;" class="fa-solid fa-compass"></i></h1></a>
-    <a href="./herramientas"><h1 style="font-size:20px;padding-left:12px"><i style="color:#85898f;" class="fa-solid fa-wrench"></i></h1></a>
+    <a href="../main.php"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-solid fa-house"></i></h1></a>
+    <a href="./explorar.php"><h1 style="font-size:20px;padding-left:12px"><i style="color:#85898f;" class="fa-solid fa-compass"></i></h1></a>
+    <a href="./herramientas.php"><h1 style="font-size:20px;padding-left:12px"><i style="color:#85898f;" class="fa-solid fa-wrench"></i></h1></a>
     <a href="https://discord.gg/YvFGRAw2wx"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-brands fa-discord"></i></h1></a>
-    <a href="main_developers"><img style="width:40px;background-color:#21252b" src="../assets/images/gdevtrans.png"></a>
-    <a href="./culto_del_pan"><img style="width:40px;background-color:#21252b" src="../assets/images/bread.png"></a>
+    <a href="main_developers.php"><img style="width:40px;background-color:#21252b" src="../assets/images/gdevtrans.png"></a>
+    <a href="./culto_del_pan.php"><img style="width:40px;background-color:#21252b" src="../assets/images/bread.png"></a>
 </div>
 
 <div class="test2">
 <h4 style="padding-left:20px;"><i class="fa-solid fa-comments"></i> Chat Global</h4>
-<a href="./informacion" style="color:#85898f;"><h4 style="padding-left:20px;"><i class="fa-solid fa-circle-info"></i> Informacion</h4></a>
-<a href="./explorar" style="color:#85898f;"><h4 style="padding-left:20px;"><i class="fa-solid fa-map"></i> Explorar</h4></a>
+<a href="./informacion.php" style="color:#85898f;"><h4 style="padding-left:20px;"><i class="fa-solid fa-circle-info"></i> Informacion</h4></a>
+<a href="./explorar.php" style="color:#85898f;"><h4 style="padding-left:20px;"><i class="fa-solid fa-map"></i> Explorar</h4></a>
 <h4 style="padding-left:20px;"><i class="fa-solid fa-shop"></i> Tienda</h4>
 <h4 style="padding-left:20px;"><i class="fa-solid fa-lock"></i> Admin Room</h4>
 <hr>
