@@ -48,8 +48,7 @@
 </div>
 
 <div class="test2">
-<h4 style="padding-left:20px;"><i class="fa-solid fa-comments"></i> Chat Global</h4>
-<a href="./content/informacion.php" style="color:#85898f;"><h4 style="padding-left:20px;"><i class="fa-solid fa-circle-info"></i> Informacion</h4></a>
+<a href="./content/changelog.php" style="color:#85898f;"><h4 style="padding-left:20px;"><i class="fa-solid fa-circle-info"></i> Changelog</h4></a>
 <a href="./content/explorar.php" style="color:#85898f;"><h4 style="padding-left:20px;"><i class="fa-solid fa-map"></i> Explorar</h4></a>
 <h4 style="padding-left:20px;"><i class="fa-solid fa-shop"></i> Tienda</h4>
 <h4 style="padding-left:20px;"><i class="fa-solid fa-lock"></i> Admin Room</h4>

@@ -14,7 +14,7 @@
 
 <div class="maincontainer">
     <h1 style="padding-left:6rem;font-family: 'Inconsolata', monospace;">Discogram</h1>
-    <h2 style="padding-left:6rem;">Informacion</h2>
+    <h2 style="padding-left:6rem;">Changelog</h2>
     <p style="padding-left:6rem;margin:0;">Aqui podras encontra una lista de servidores donde podras chatear.</p>
     <p style="padding-left:6rem;margin:0;">Si encuentras algun bug, no olvides reportarlo en nuestro servidor de Discord.</p>
     <hr>
@@ -34,8 +34,7 @@
 </div>
 
 <div class="test2">
-<h4 style="padding-left:20px;"><i class="fa-solid fa-comments"></i> Chat Global</h4>
-<a href="./informacion.php" style="color:#85898f;"><h4 style="padding-left:20px;"><i class="fa-solid fa-circle-info"></i> Informacion</h4></a>
+<a href="./changelog.php" style="color:#85898f;"><h4 style="padding-left:20px;"><i class="fa-solid fa-circle-info"></i> Changelog</h4></a>
 <a href="./explorar.php" style="color:#85898f;"><h4 style="padding-left:20px;"><i class="fa-solid fa-map"></i> Explorar</h4></a>
 <h4 style="padding-left:20px;"><i class="fa-solid fa-shop"></i> Tienda</h4>
 <h4 style="padding-left:20px;"><i class="fa-solid fa-lock"></i> Admin Room</h4>
@@ -63,6 +62,7 @@
     <h4 style="padding-left:10px;margin:8px;">Websocket (Bus)</h4>
     <p style="margin:0;padding-left:15px;font-size:13px;">Conectado: <span style="color:red">false</span></p>
     <p style="margin:0;padding-left:15px;font-size:13px;">Puerto: <span style="color:red">none</span></p>
+    <p style="margin:0;padding-left:15px;font-size:13px;">Bus URL: <span style="color:red">undefined</span></p>
 </div>
 
 </div>
