@@ -15,13 +15,9 @@
 <div class="maincontainer">
     <h1 style="padding-left:6rem;font-family: 'Inconsolata', monospace;">Discogram</h1>
     <h2 style="padding-left:6rem;">Changelog</h2>
-    <p style="padding-left:6rem;margin:0;">Aqui podras encontra una lista de servidores donde podras chatear.</p>
+    <p style="padding-left:6rem;margin:0;">Aqui podras encontrar el historial de cambios de la version en la que te encuentras.</p>
     <p style="padding-left:6rem;margin:0;">Si encuentras algun bug, no olvides reportarlo en nuestro servidor de Discord.</p>
     <hr>
-    <h3 style="padding-left:6rem;">¿Que significa cada cosa?</h3>
-    <p style="padding-left:6rem;"><i class="fa-solid fa-hashtag"></i> Canal de Texto</p>
-    <p style="padding-left:6rem;"><i class="fa-solid fa-volume-high"></i> Canal de Voz</p>
-    <p style="padding-left:6rem;"><i class="fa-solid fa-circle-info"></i> Canal de Informacion</p>
 </div>
 
 <div class="test">
