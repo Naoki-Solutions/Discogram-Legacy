@@ -23,18 +23,16 @@
     <br>
     <p style="padding-left:6rem;margin:0;">Creado: 14/2/2023 (14 feb 2023)</p>
     <p style="padding-left:6rem;margin:0;">Estado: <span style="color:green">Abierto</span></p>
-    <p style="padding-left:6rem;margin:0;">Actividad: 0%</p>
     <br>
-    <a href="./culto_del_pan.php"><span style="padding-left:6rem;margin:0;color:green;font-family: 'Inconsolata', monospace;">Click aqui para acceder</span></a>
+    <a href="./content/culto_del_pan.php"><span style="padding-left:6rem;margin:0;color:green;font-family: 'Inconsolata', monospace;">Click aqui para acceder</span></a>
     <hr>
     <h3 style="padding-left:6rem;">Main Developers</h3>
     <p style="padding-left:6rem;margin:0;">En este gremio compartimos cosas sobre la programacion.</p>
     <br>
     <p style="padding-left:6rem;margin:0;">Creado: 14/2/2023 (14 feb 2023)</p>
     <p style="padding-left:6rem;margin:0;">Estado: <span style="color:red">Cerrado</span></p>
-    <p style="padding-left:6rem;margin:0;">Actividad: 0%</p>
     <br>
-    <a href="./main_developers.php"><span style="padding-left:6rem;margin:0;color:green;font-family: 'Inconsolata', monospace;">Click aqui para acceder</span></a>
+    <a href="./content/main_developers.php"><span style="padding-left:6rem;margin:0;color:green;font-family: 'Inconsolata', monospace;">Click aqui para acceder</span></a>
     <br>
     <hr>
 </div>

@@ -1,2 +1,2 @@
-let version = "v2.2.0";
+let version = "v2.2.1";
 document.getElementById("version").innerHTML = version;

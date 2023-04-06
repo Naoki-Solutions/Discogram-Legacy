@@ -54,7 +54,7 @@
 <h4 style="padding-left:20px;font-family:sans-serif;font-size:14px;"><i class="fa-solid fa-chevron-down"></i> Social Networks</h4>
 <h4 style="padding-left:23px;"><i class="fa-brands fa-discord"></i> <a style="color:#85898f;" href="https://discord.com/invite/YvFGRAw2wx">Discord</a></h4>
 <h4 style="padding-left:25px;"><i class="fa-brands fa-github"></i> <a style="color:#85898f;" href="https://github.com/Naoki-Solutions/NaokiOnNet">Github</a></h4>
-<h4 style="padding-left:25px;"><i class="fa-brands fa-twitter"></i> <a style="color:#85898f;" href="https://twitter.com/NaokiSolutions">Twitter</a></h4>
+<h4 style="padding-left:25px;"><i class="fa-brands fa-twitter"></i> <a style="color:#85898f;" href="https://twitter.com/NeticsSH">Twitter</a></h4>
 </div>
 
 <div class="debug">
