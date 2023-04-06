@@ -27,28 +27,28 @@
 </div>
 
 <div class="test">
-    <a href="../main"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-solid fa-house"></i></h1></a>
-    <a href="./explorar"><h1 style="font-size:20px;padding-left:12px"><i style="color:#85898f;" class="fa-solid fa-compass"></i></h1></a>
-    <a href="./herramientas"><h1 style="font-size:20px;padding-left:12px"><i style="color:#85898f;" class="fa-solid fa-wrench"></i></h1></a>
+    <a href="../main.php"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-solid fa-house"></i></h1></a>
+    <a href="./explorar.php"><h1 style="font-size:20px;padding-left:12px"><i style="color:#85898f;" class="fa-solid fa-compass"></i></h1></a>
+    <a href="./herramientas.php"><h1 style="font-size:20px;padding-left:12px"><i style="color:#85898f;" class="fa-solid fa-wrench"></i></h1></a>
     <a href="https://discord.gg/YvFGRAw2wx"><h1 style="font-size:20px;padding-left:10px"><i style="color:#85898f;" class="fa-brands fa-discord"></i></h1></a>
-    <a href="./main_developers"><img style="width:40px;background-color:#21252b" src="../assets/images/gdevtrans.png"></a>
-    <a href="./culto_del_pan"><img style="width:40px;background-color:#21252b" src="../assets/images/bread.png"></a>
+    <a href="./main_developers.php"><img style="width:40px;background-color:#21252b" src="../assets/images/gdevtrans.png"></a>
+    <a href="./culto_del_pan.php"><img style="width:40px;background-color:#21252b" src="../assets/images/bread.png"></a>
 </div>
 </div>
 
 <div class="test2">
 <h2 style="font-size:18px;padding-left:20px;">🍞 El culto del Pan</h2>
 <hr>
-<h4 style="padding-left:20px;"><i class="fa-solid fa-house"></i> <a style="color:#85898f;" href="./culto_del_pan">Inicio</a></h4>
-<h4 style="padding-left:20px;"><i class="fa-solid fa-calendar"></i> <a style="color:#85898f;" href="./culto_del_pan">Eventos</a></h4>
+<h4 style="padding-left:20px;"><i class="fa-solid fa-house"></i> <a style="color:#85898f;" href="./culto_del_pan.php">Inicio</a></h4>
+<h4 style="padding-left:20px;"><i class="fa-solid fa-calendar"></i> <a style="color:#85898f;" href="./culto_del_pan.php">Eventos</a></h4>
 <h4 style="padding-left:20px;font-family:sans-serif;font-size:14px;"><i class="fa-solid fa-chevron-down"></i> Social</h4>
-<h4 style="padding-left:20px;"><a style="color:#85898f;" href="./cdp-general">🌎 General</a></h4>
+<h4 style="padding-left:20px;"><a style="color:#85898f;" href="./cdp-general.php">🌎 General</a></h4>
 <h4 style="padding-left:20px;"><i class="fa-solid fa-image"></i> <a style="color:#85898f;">Memes</a></h4>
 <h4 style="padding-left:20px;"><i class="fa-solid fa-volume-high"></i> <a style="color:#85898f;">Audio</a></h4>
 <h4 style="padding-left:20px;font-family:sans-serif;font-size:14px;"><i class="fa-solid fa-chevron-down"></i> NeticsSH</h4>
-<h4 style="padding-left:20px;"><a style="color:#85898f;" href="./cdp-announcements">📢 Announcements</a></h4>
-<h4 style="padding-left:20px;"><a style="color:#85898f;" href="./cdp-bugreport">🪲 Bug Report</a></h4>
-<h4 style="padding-left:20px;"><a style="color:#85898f;" href="./cdp-suggestions">💡 Suggestions</a></h4>
+<h4 style="padding-left:20px;"><a style="color:#85898f;" href="./cdp-announcements.php">📢 Announcements</a></h4>
+<h4 style="padding-left:20px;"><a style="color:#85898f;" href="./cdp-bugreport.php">🪲 Bug Report</a></h4>
+<h4 style="padding-left:20px;"><a style="color:#85898f;" href="./cdp-suggestions.php">💡 Suggestions</a></h4>
 <h4 style="padding-left:20px;font-family:sans-serif;font-size:14px;"><i class="fa-solid fa-chevron-down"></i> Social Networks</h4>
 <h4 style="padding-left:23px;"><i class="fa-brands fa-discord"></i> <a style="color:#85898f;" href="https://discord.com/invite/YvFGRAw2wx">Discord</a></h4>
 <h4 style="padding-left:25px;"><i class="fa-brands fa-github"></i> <a style="color:#85898f;" href="https://github.com/Naoki-Solutions/NaokiOnNet">Github</a></h4>
